@@ -5,7 +5,7 @@
 |About me |H|2h| Actual Time|
 |project|H|2h| Actual Time|
 |icon|m|1h|Actual Time|
-======
+====
 |Nav bar |H|3 h| 2h|
 |About me |H|2h|3h|
 |project|m|2h| 3h|
