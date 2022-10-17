@@ -43,7 +43,7 @@
 
 
 
-=======
+=====
       <h1> My name is Kevin I'm a <span class="auto-type"></span></h1>
       
         
